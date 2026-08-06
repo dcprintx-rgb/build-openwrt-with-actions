@@ -25,6 +25,7 @@ echo 'src-git luci https://github.com/immortalwrt/luci.git
 echo 'echo 'src-git routing https://github.com/openwrt/routing.git
 echo 'src-git telephony https://github.com/openwrt/telephony.git
 echo 'src-git video https://github.com/openwrt/video.git
+echo 'src-git https://github.com/daeuniverse/dae.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
